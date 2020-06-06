@@ -1,0 +1,2 @@
+# SnakeMake-for-RaTG13-Covid19-alignment
+A comprehensive, easy to deal with SnakeMake workflow of processing a paired sequence of bat's faecal swap collected Yunnan province in China. The input files are raw FASTQ files and a FASTA reference sequence.  The workflow output is a consensused sequence in FASTA format which can then be used in online alignment softwares such as BLAST to be compared to other organisms.
