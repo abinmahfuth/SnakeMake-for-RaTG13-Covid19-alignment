@@ -35,4 +35,4 @@ https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi
 
 The Workflow can be summarised below:
 
-![](images/out.png)
+![](out.png)
