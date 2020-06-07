@@ -34,13 +34,13 @@ Then simply run it:
 ./Data_Extract.sh
 ```
 
-Everything is set to run the workflow. The default name for the final output is called consesus.fa, so by typying the following on the commandline we will get the afromentioned output:
+Everything is set to run the workflow. The default name for the final output is called consesus.fa, so by typying the following on the commandline we will get the aforementioned output:
 
 ```
 snakemake consensus.fa
 ```
 
-This FASTA output can be used in BLAST to be search in the NCBI database to be campered to other organisms:
+This FASTA output is BLASTable, i.e. can be aligned in the NCBI database to be campered to other organisms:
 https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi
 
 
