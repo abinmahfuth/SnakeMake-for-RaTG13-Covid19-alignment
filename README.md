@@ -10,7 +10,7 @@ To run the workflow, it is essential to have anaconda or miniconda installed on 
 
 ```
 mkdir RaTG13Align
-cd RaTG13Align
+cd ./RaTG13Align
 ```
 Now that we have made a new directory, dowanload the content of this repository there, then go ahead and create a new conda environment with the dependecies necessary using the .yaml file included:
 
